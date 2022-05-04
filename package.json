@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DAscencioSanchez/TrelloJS/issues"
   },
-  "homepage": "https://github.com/DAscencioSanchez/TrelloJS#readme"
+  "homepage": "https://github.com/DAscencioSanchez/TrelloJS#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
 }
