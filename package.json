@@ -1,0 +1,19 @@
+{
+  "name": "trellojs",
+  "version": "1.0.0",
+  "description": "TrelloJS Project for LaunchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAscencioSanchez/TrelloJS.git"
+  },
+  "author": "D. Ascencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAscencioSanchez/TrelloJS/issues"
+  },
+  "homepage": "https://github.com/DAscencioSanchez/TrelloJS#readme"
+}
